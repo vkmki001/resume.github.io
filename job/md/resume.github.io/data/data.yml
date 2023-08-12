@@ -1,0 +1,400 @@
+basic:
+  name: 季太一                      # name
+  title: 数据治理与分析师           # job title
+  avatar:
+    show: true                       # show or hide avatar
+    path: /images/profile.png        # avatar file path
+
+contact:
+  # meta
+  location: 广东, 深圳 # location
+  email: vkmki001@163.com    # email address
+  phone: +86-186-6592-5195 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: vkmki001.github.io     # site URL without schema, like example.com, will automatically prepand "https://"
+
+  gender:                  # gender or pronoun
+  birthday:                # birthday
+  nationality:             # nationality
+  visa:                    # passport visa
+  drivinglicense:          # driving licence
+
+  # contact
+  wechat:                  # username
+  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
+  telegram:                # username          | https://t.me/username
+  messenger:               # username          | https://m.me/username
+  line:                    # lineid            | https://line.me/R/ti/p/@lineid
+  viber:                   # username          | https://vb.me/username
+  threema:                 # userid            | https://threema.id/userid
+
+  # programmer
+  github:                  # username          | https://github.com/username
+  gitlab:                  # username          | https://gitlab.com/username
+  bitbucket:               # username          | https://bitbucket.com/username
+  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode:                # username          | https://leetcode.com/username
+  codeforces:              # username          | https://codeforces.com/profile/username
+  codewars:                # username          | https://www.codewars.com/users/username
+  codepen:                 # username          | https://codepen.io/username
+  tryhackme:               # username          | https://tryhackme.com/p/username
+
+  # academic
+  googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  researchgate:            # username          | https://www.researchgate.net/profile/username
+  kaggle:                  # username          | https://www.kaggle.com/username
+  orcid:                   # id                | https://orcid.org/id
+  figshare:                # name/id           | https://figshare.com/authors/name/id
+
+  # writer
+  devto:                   # username          | https://dev.to/username
+  medium:                  # username          | https://medium.com/@username
+  wordpress:               # username          | https://username.wordpress.com
+  blogger:                 # username          | https://username.blogspot.com
+  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+
+  # designer
+  figma:                   # username          | https://www.figma.com/@username
+  behance:                 # username          | https://www.behance.net/username
+  dribble:                 # username          | https://dribbble.com/username
+  artstation:              # username          | https://www.artstation.com/username
+
+  # other cv
+  linkedin:                # username          | https://linkedin.com/in/username
+  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
+  xing:                    # username          | https://www.xing.com/profile/username
+  fiverr:                  # username          | https://www.fiverr.com/username
+  freelancer:              # username          | https://www.freelancer.com/u/username
+
+  # social media
+  twitter:                 # username          | https://twitter.com/username
+  mastodon:                # username@server
+  instagram:               # username          | https://instagram.com/username
+  unsplash:                # username          | https://unsplash.com/@username
+  _500px:                  # username          | https://500px.com/p/username
+  youtube:                 # username          | https://www.youtube.com/@username
+  tiktok:                  # username          | https://www.tiktok.com/@username
+  quora:                   # username          | https://www.quora.com/profile/username
+  zhihu:                   # username          | https://www.zhihu.com/people/username
+  goodreads:               # username          | https://www.goodreads.com/user/show/username
+  strava:                  # useid             | https://www.strava.com/athletes/userid
+
+profile:
+  show: true
+  order: 1
+  title: 个人简介
+  description: |
+    - 拥有5年以上数据治理与分析经验，熟悉数据治理框架与方法论，并掌握多种数据分析技能；
+    - 先后服务于互联网、金融、地产等行业，多次主导项目成功交付，擅长解决复杂的数据挑战。
+
+experience:
+  show: true
+  order: 2
+  title: 工作经历
+  description: |
+  items:
+   
+    - company: 致同会计师事务所
+      link: https://www.grantthornton.cn/about-us/
+      tags: 全职
+      date: 2022.03 - 今
+      role: 数字化项目经理
+      location: 深圳
+      description: |
+        + 项目管理：制定和执行数据治理项目计划，主导解决方案设计，确保项目按计划进行并达成预期的成果；
+        + 项目售前：对接客户需求，洞察客户在数据管理过程中的系统、流程方面的痛点，设计售前方案与汇报；
+        + 经验培训：为同事提供必要的数据治理经验培训，帮助提高数据意识和能力，并根据反馈优化培训内容。
+   
+    - company: 华润万象生活有限公司
+      link: http://www.crmixclifestyle.com.cn/wxsh/index.html
+      tags: 全职
+      date: 2021.08 - 2022.02
+      role: 数据运营主管
+      location: 深圳
+      description: |
+        + 数据分析：编写Python脚本与使用分析平台分析APP中客户行为，设计提升客户转化方案，输出分析报告;
+        + 报表开发：收集业务同事报表需求，与开发团队共同设计自动化报表工具，完成稳定性测试与后期BUG修复；
+        + 数据支持：汇总各部门KPI指标，使用商务智能工具（PowerBI）搭建数据仪表盘，提供个性化的数据展示；
+
+    - company: 中国平安人寿保险有限公司
+      link: https://life.pingan.com/p/#/about
+      tags: 全职
+      date: 2020.04 - 2021.08
+      role: 高级数据采集工程师
+      location: 深圳
+      description: |
+        + 数据采集：使用大数据与数据库工具（Hive/Oracle/MySQL等）编写采集脚本、部署定时任务提供数据；
+        + 监管报送：根据监管方监管要求，核查数据规范、确保数据完整可靠，提供所需标准化数据并编制数据报告。
+
+    - company: 客路旅行科技有限公司
+      link: https://www.klook.com/zh-CN/about/
+      tags: 全职
+      date: 2017.07 - 2020.03
+      role: 数据运营分析
+      location: 深圳
+      description: |
+        + 数据运营：关注平台关键产品运营表现，分析导致表现变化的关键因素；收集致整理组织内外部数据资源；
+        + 数据分析：运用统计分析和机器学习等技术，发现客户行为数据的规律和趋势，并提供有价值的业务洞察；
+        + 数据爬取：参与设计数据爬取工具，采集竞争对手关键商品信息，指导运营工作使保持较高的竞争优势；
+
+project:
+  show: true
+  order: 3
+  title: 项目经历
+  description: |
+  
+  items:
+    - name: 广汽丰田公司级主数据项目
+      link: 
+      tags:
+      date: 2022.04 - 2023.04
+      description: |
+        该项目为广汽丰田设计了公司级主数据识别方案与主数据管理管理规范，并在数据平台搭建试点运行。
+        + 主数据识别：借鉴数据管理行业标准与外部实践案例，结合调研访谈结果设计主数据识别方案；
+        + 数据标准建设：设计主数据建设与共享标准，定义管理流程与组织责任，编写《主数据管理规范》；
+        + 系统方案设计：设计主数据逻辑模型，构建以主数据平台为中心的系统集成方案，提供可靠数据服务。
+
+    - name: 广汽丰田位置主数据项目
+      link:
+      tags: 售前
+      date: 2023.02 - 2023.5
+      description: |
+        该项目为公司级主数据项目的承接，通过建设位置主数据可为客户位置管理提供可靠数据支持。
+        + 需求对接：通过客户访谈，挖掘各业务方对位置数据管理的需求与期望，编制解决方案报告；
+        + 方案宣讲：组织方案的汇报，使客户充分理解项目的周期、范围与预期效果，根据反馈优化。
+
+    - name: 一点万象APP用户活跃提升项目
+      link:
+      tags: 
+      date: 2021.12 - 2022.01
+      description: |
+        通过利用一点万象APP用户行为数据，发掘客户转化行为路径，提升用户活跃度。
+        + 数据集成：编写动态API取数脚本，对接数据分析平台进行定期自动集成数据；
+        + 可视化展现：使用Python动态呈现用户在APP内的流转路径，以桑基图形式展现；
+        + 监控调优：监控用户转化率、流失率较高的点位，提供路径设计建议以提升活跃。
+
+    - name: 头部旅游产品需求预测项目
+      link:
+      tags: 
+      date: 2019.06 - 2019.07
+      description: |
+        平台头部产品需求受多重因素影响，需运用统计分析与机器学习技术预测未来销量，提供采购建议以实现供需平衡。
+        + 数据清洗与建模：采集历史各季节销售数据，使用Python机器学习包建立并优化线性回归模型，预测未来销量；
+        + 报告编制：校验预测准确率并输出预测报告，为采购部门未来采购量提供指导建议；实现节省约30%库存成本。
+
+    - name: 旅游客户喜好分析项目
+      link:
+      tags: 
+      date: 2019.07 - 2019.08
+      description: |
+        由于公司面对多个国家开展旅游业务，需对各个国家旅游人群创建客户画像，支持广告投放策略的优化。
+        + 数据采集：使用MySQL与Google Spreadsheet建立数据动态更新表格工具，采集各区域客户旅游偏好；
+        + 数据分析：使用Python进行数据清洗并建立分类模型，分析各国家游客不同产品组合对其购买行为的影响。
+
+skill:
+  show: true
+  order: 4
+  title: 专业技能
+  description: |
+
+  items:
+    - name: 数据治理
+      level: 4
+    - name: Python
+      level: 3
+    - name: SQL
+      level: 4
+    - name: 数据分析
+      level: 4
+    - name: PowerBI
+      level: 4
+    - name: PowerPoint
+      level: 4
+    - name: 数据建模
+      level: 3
+    - name: Hive
+      level: 2
+    - name: Excel
+      level: 4
+
+education:
+  show: true
+  order: 5
+  title: 教育经历
+  description: |
+    
+  items:
+    - institution: 山东大学
+      link: 
+      date: 2013 - 2017
+      major: 机械设计制造及其自动化
+      degree: 本科
+      description: |
+        + 于2015年获得第二校园奖学金
+
+certificate:
+  show: true
+  order: 6
+  title: 相关认证
+  description: |
+
+  items:
+    - name: 数据治理工程师证书（CDGA）
+      issuer: 国际数据管理协会DAMA中国
+      date: 2022
+      link: 
+      description: 
+  
+    - name: 英语六级证书（CET-6）
+      issuer: 全国大学英语四、六级考试委员会
+      date: 2014
+      link: 
+      description: |
+
+publication:
+  show: false
+  order: 7
+  title: Publications
+  description: |
+    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
+
+    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
+
+    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
+
+    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
+
+  items:
+    - title: Example Publication in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: '#'
+    - title: The Art of Example Publication
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link:
+
+award:
+  show: false
+  order: 8
+  title: Awards
+  description: |
+    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
+
+    When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
+
+    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
+
+  items:
+    - name: Example Awared One
+      awarder: by Example
+      date: 2022
+      link: '#'
+      description: |
+        It's my Example Awared One by Example.
+    - name: Example Awared Two
+      awarder: by Example
+      date: 2022
+      link:
+      description: |
+        It's my Example Awared Two by Example.
+
+patent:
+  show: false
+  order: 9
+  title: Patents
+  description: |
+    The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
+
+    In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
+
+    Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
+
+    Template for a pending patent:
+
+    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
+
+    Template for an approved patent:
+
+    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
+
+    The following are some examples of patent formats.
+
+    + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
+    + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+
+organization:
+  show: false
+  order: 10
+  title: Organizations
+  description: |
+    The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
+
+    In this section, you can list the name of the organization, your role and responsibilities, the duration of your involvement, and any significant achievements or accomplishments. You can also mention any skills or qualities you gained from your involvement, such as leadership, teamwork, communication, or problem-solving skills.
+
+    This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
+
+language:
+  show: true
+  order: 11
+  title: 语言能力
+  description: |
+  items:
+    - idiom: 中文
+      level: 母语
+    - idiom: 英文
+      level: 熟练
+
+interest:
+  show: false
+  order: 12
+  title: 兴趣爱好
+  description: |
+
+  items:
+    - item: 
+      link: '#'
+    - item: Cooking
+      link:
+
+evaluation:
+  show: true
+  order: 13
+  title: 个人评价
+  description: |
+    + 注重团队合作，善于沟通和协调、与相关利益相关者进行有效的合作；
+    + 持续保持学习热情，注重自我提升，不断跟踪行业发展和最佳实践。
+reference:
+  show: false
+  order: 14
+  title: References
+  description: |
+    A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
+
+    It's important to note that including a reference section in a resume is not always necessary, and some employers may prefer to request references separately. If you do choose to include a reference section, it should typically be located at the end of your resume.
+
+    When listing references, be sure to include the individual's name, job title, company name, phone number, and email address. It's also a good idea to ask for the individual's permission before listing them as a reference, and to let them know what kind of job you are applying for so they can speak to your relevant skills and experience.
+
+    It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
+
+  items:
+    - name: Foo One
+      link: '#'
+      title: Backend Developer
+      institution: Second Company
+      address: 1234 Example St, XXX, XY 11111
+      email: foo.one@example.com
+      phone: 111-222-333
+      description: |
+        Foo One was my colleague in Second Company.
+
+    - name: Bar Two
+      link:
+      title: Professor
+      institution: Example University
+      address: 4321 Example St, YYY, XY 22222
+      email: bar.two@example.com
+      phone: 444-555-666
+      description: |
+        Bar Two was my advisor at Example University.
+
+close: <strong>Sorry, my resume has been hidden.</strong>
