@@ -1,4 +1,4 @@
-baseURL:
+baseURL: https://vkmki001.github.io/resume.github.io/
 disableKinds: [section, taxonomy, term, RSS, sitemap, 404]
 enableRobotsTXT: true
 languageCode: en
